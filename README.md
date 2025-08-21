@@ -2,7 +2,6 @@
 
 I’m Lucas, a **data & learning enthusiast**.
 I enjoy exploring how data can tell stories, solve problems, and open up new ways of thinking.  
-Data is what turns opinion into clarity, and information into insight that empowers teams to act with confidence.  
 
 🔎 A few things about me:  
 - 📊 Learning and experimenting with **R, SQL, and all things analytics**  
