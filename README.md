@@ -5,7 +5,6 @@ I enjoy exploring how data can tell stories, solve problems, and open up new way
 
 A few things about me:  
 - 📊 Learning and experimenting with **R, SQL, Power BI, and all things data**  
-- 🎓 Master’s student in **Data Science**  
 - 🌱 Lifelong learner, always chasing new ideas and skills  
 
 This GitHub is where I share projects, practice code, and document my learning journey in data science and data analytics.
