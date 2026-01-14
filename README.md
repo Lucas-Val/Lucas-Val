@@ -3,7 +3,7 @@ Hi there
 I’m Lucas, a **data & learning enthusiast**.
 I enjoy exploring how data can tell stories, solve problems, and open up new ways of thinking.  
 
-A few things about me:  
+About me:  
 - Learning and experimenting with **R, SQL, Power BI, and all things data**  
 - Lifelong learner, always chasing new ideas and skills  
 
