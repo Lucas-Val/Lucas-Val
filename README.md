@@ -1,6 +1,6 @@
 Hi there  
 
-I’m Lucas, a data & learning enthusiast**.
+I’m Lucas, a data enthusiast**.
 I enjoy exploring how data can tell stories, solve problems, and open up new ways of thinking.  
 
 About me:  
